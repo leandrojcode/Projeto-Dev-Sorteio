@@ -4,4 +4,10 @@ function generateNumber() {
     const result = Math.floor(Math.random() * (max - min + 1)) + min;
 
     document.querySelector("#resultado").innerHTML = result
-}   
+}
+
+function resetar() {
+    document.querySelector(".input-min").value = "";
+    document.querySelector(".input-max").value = "";
+    document.querySelector("#resultado").innerHTML = "";
+}
