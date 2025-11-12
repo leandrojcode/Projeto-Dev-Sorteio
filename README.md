@@ -1,18 +1,23 @@
 # 🎲 DevSorteio
 
-Um site simples para sortear números aleatórios entre dois valores definidos pelo usuário.
+Um simples gerador de números aleatórios desenvolvido com **HTML**, **CSS** e **JavaScript**.
 
-## 🚀 Tecnologias utilizadas
-- HTML
-- CSS
-- JavaScript
+## Funcionalidades
 
-## 💡 Como funciona
-Basta digitar o número mínimo e máximo, clicar em **Sortear**, e o sistema exibirá um número aleatório entre os dois valores.
+- Gera um número aleatório entre dois valores definidos pelo usuário  
+- Mostra o resultado na tela de forma dinâmica  
+- Permite **resetar** os campos e limpar o resultado com um clique
 
-## 🖥️ Visualização
-Abra o arquivo `index.html` no navegador para usar o sorteador.
+## Tecnologias
 
----
+- HTML5  
+- CSS3  
+- JavaScript (DOM)
+
+## Como usar
+
+1. Digite os números **mínimo** e **máximo** nos campos  
+2. Clique em **Sortear** para gerar um número aleatório  
+3. Clique em **Resetar** para limpar os campos e o resultado
 
 Feito por [Leandro J. Code](https://www.linkedin.com/in/leandrofjesus/)
